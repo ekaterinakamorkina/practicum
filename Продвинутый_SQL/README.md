@@ -414,7 +414,7 @@ WHERE user_id = (SELECT user_id FROM users) AND title IS NOT NULL;
 <tr>
 <td>
 
-![SQL2](./img/sql9.png)
+![SQL2](./img/9.png)
 </tr>
 </tbody>
 </table>
@@ -526,7 +526,7 @@ FROM a
 <tr>
 <td>
 
-![SQL2](./img/sql12.png)
+![SQL2](./img/12.png)
 </tr>
 </tbody>
 </table>
@@ -669,7 +669,7 @@ ORDER BY DATe_trunc ('month', p.creation_date)::date DESC
 <tr>
 <td>
 
-![SQL2](./img/sql16.png)
+![SQL2](./img/16.png)
 </tr>
 </tbody>
 </table>
